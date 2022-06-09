@@ -1,0 +1,91 @@
+.container7{
+    background-color:white;
+    position: absolute;
+    margin-top: 3710px;
+    width:75%;
+    height:150%;
+}
+.text_pag1{
+    position: absolute;
+    top: 45px;
+    left: 265px;
+    background-image: linear-gradient(to bottom,rgb(228, 50, 139) ,rgb(72, 130, 224));
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:450px;
+    height:65%;
+}
+.im1{
+    position:relative;
+    width:55%;
+    top:120px;
+    left:150px;
+}
+.im2{
+    position:absolute;
+    
+  top:120px;
+    left:380px;
+    
+}
+.im3{
+    position:absolute;
+    top:120px;
+    left:650px;
+}
+.im4{
+    position:relative;
+    width:55%;
+    top:130px;
+    left:150px;
+}
+.im5{
+    position:absolute;
+    
+  top:355px;
+    left:380px;
+    height:37%;
+    width: 45%;
+    
+}
+.im6{
+    position:absolute;
+    
+  top:355px;
+    left:650px;
+    height:41%;
+    width: 38%;
+    
+}
+.text_pag2{
+    position: absolute;
+    top: 495px;
+    left: 615px;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:290px;
+    height:25%;
+}
+.P1{
+    position:absolute;
+    font-size:15px;
+    top:55px;
+}
+.btn4{
+    position: absolute;
+  top: 220px;
+  left:115px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(226, 31, 57);
+  /* color: white; */
+  font-size: 15px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  border-radius: 10px;
+}

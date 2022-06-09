@@ -1,0 +1,107 @@
+.container8{
+    background-color:rgb(223, 223, 223);
+    position: absolute;
+    margin-top: 4610px;
+    width:75%;
+    height:85%;
+}
+.text_page1{
+    position: absolute;
+    top: 90px;
+    left: 0px;
+    background-image: linear-gradient(to bottom,rgb(228, 50, 139) ,rgb(72, 130, 224));
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:96.5%;
+    height:29%;
+}
+.text_page2{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:96.5%;
+    height:29%;
+}
+.text_page3{
+    position: absolute;
+    bottom: 36%;
+    left: 20%;
+    background-color: white;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:63%;
+    height:60%;
+}
+input[type=t1]{
+       
+    padding: 5px 15px;
+    width:50%;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px ;
+    box-sizing: border-box;
+    
+}
+.text_page4{
+    position: absolute;
+    bottom:36%;
+    left: 48%;
+    background-color: white;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:35%;
+    height:60%;
+}
+input[type=box1]{
+      margin-top: 25px; 
+    padding: 10px 15px;
+    width:100%;
+    left:15px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=box2]{
+    margin-top: 25px; 
+  padding: 10px 15px;
+  width:100%;
+  left:15px;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.button{
+    position: absolute;
+  top: 300px;
+  left:220px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(226, 31, 57);
+  width:92%;
+  height:15%;
+  font-size: 20px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+ color:white;
+  text-align: center;
+  
+}
+
+.link{
+    margin-top: 70px;
+    position:relative;
+    color:rgb(213, 213, 220);
+    text-align: center;
+    font-size: small;
+    /* left: 20px; */
+}

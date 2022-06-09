@@ -1,0 +1,30 @@
+.container {
+    position: relative;
+    font-family: Arial;
+  }
+  .container1{
+      background-color:rgb(228, 228, 228);
+      position: absolute;
+      margin-top: 450px;
+      width:75%;
+      height:95%;
+  }
+
+.image1{
+    display: block;
+    top:200px;
+    margin-top: 55px;
+  margin-left: 55px;
+  margin-right: auto;
+  width: 50%;
+}
+h1{
+    text-align:center;
+    font-size:40px;
+}
+pre{
+  
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px;
+}

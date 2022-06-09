@@ -1,0 +1,63 @@
+.container2{
+   
+        background-color:rgb(228, 228, 228);
+        position: absolute;
+        margin-top: 1250px;
+        margin-left: 60px;
+        width:35%;
+        height:60%;
+    }
+
+    .image1{
+        position:absolute;
+        bottom:10px;
+        left:250px;
+    }
+    .i1{
+
+        position: absolute;
+       top:30px;
+       left:15px;
+        width:95%;
+        height:85%;
+    }
+    .circle1{
+        position :absolute;
+        /* background-color: rgb(255, 0, 0); */
+        border-radius: 50%;
+        margin-top: -30px;
+        margin-left: 500px;
+        width:35%;
+        height:45%;
+        background-image: linear-gradient(to top ,rgb(219, 44, 238),rgb(122, 134, 203)  );
+    }
+.text_img{
+    position :absolute;
+    background-color:rgb(244, 239, 239); ;
+    /* position: absolute; */
+    top: 58px;
+    left: 600px;
+    /* background-color: rgb(225, 86, 86); */
+    color: white;
+    padding-left: 20px;
+    padding-right: 0px;
+    width:280px;
+    height:390px;
+
+}
+.btn1{
+    position: absolute;
+  top: 250px;
+  left:150px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(226, 31, 57);
+  /* color: white; */
+  font-size: 20px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  border-radius: 12px;
+}

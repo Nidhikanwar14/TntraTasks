@@ -1,0 +1,137 @@
+.container6{
+    background-color:rgb(228, 228, 228);
+    position: absolute;
+    margin-top: 2415px;
+    width:75%;
+    height:200%;
+}
+.i2{
+    position: absolute;
+    top:170px;
+    left:50px;
+     width:27.5%;
+     height:22%;
+}
+.i3{
+    position: absolute;
+    top: 355px;
+    right:455px;
+     width:28%;
+     height:25%;
+}
+.i4{
+    position: absolute;
+    top:50px;
+    left:680px;
+     width:25%;
+     height:20%;
+}
+.text_pa1{
+    position: absolute;
+    top: 105px;
+    left: 365px;
+    background-color: rgb(240, 240, 240);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:275px;
+    height:19.2%;
+}
+p{
+    text-align:left;
+    color:black;
+    font-size:25px;
+}
+.about_text{
+    color:black;
+    font-size:15px;
+}
+.text_pa2{
+    position: absolute;
+    top: 310px;
+    right: 175px;
+    background-image:linear-gradient(to bottom,rgb(228, 50, 139) ,rgb(72, 130, 224));
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:21.5%;
+    height:23%;
+}
+.text_pa1img{
+    position:absolute;
+    top:20px;
+    left:15px;
+}
+.about_text2{
+    color:black;
+    font-size:15px;
+    bottom:100px;
+    text-align: center;
+}
+.text_pa3{
+    position: absolute;
+    top: 830px;
+    right: 170px;
+    background-image:linear-gradient(to bottom,rgb(228, 50, 139) ,rgb(72, 130, 224));
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:70%;
+    height:22%;
+}
+.text_pa4{
+    position: absolute;
+    top: 970px;
+    right: 470px;
+    background-color:rgb(77, 128, 222);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:50%;
+    height:23%;
+}
+.text_pa5{
+    position: absolute;
+    top: 880px;
+    right: 205px;
+    background-color:white;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:70%;
+    height:27%;
+}
+.i5{
+    position:absolute;
+    left:50px;
+    bottom:20px;
+}
+.about_text3{
+    position:relative;
+    color:black;
+    top:30px;
+    left:450px;
+}
+.about_text4{
+    position:relative;
+    color:black;
+    top:35px;
+    left:450px;
+    font-size:15px;
+}
+.btn3{
+    position: absolute;
+  top: 270px;
+  left:560px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(226, 31, 57);
+  /* color: white; */
+  font-size: 15px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  border-radius: 10px;
+}
